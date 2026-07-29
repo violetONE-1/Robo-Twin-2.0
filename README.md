@@ -36,7 +36,6 @@ Expert Code Generation and Validation
       ↓
       
 Large-Scale Demonstration Collection
-
       ↓
       
 Domain Randomization
