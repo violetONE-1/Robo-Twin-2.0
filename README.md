@@ -25,25 +25,3 @@ RoboTwin 2.0 uses simulation to generate large-scale, high-quality demonstration
 3. Each demonstration contains robot observations (e.g., camera images and joint states) and corresponding expert actions.
 4. The simulation environment is randomized by changing clutter, lighting, backgrounds, tabletop height, and language instructions.
 5. ACT is trained on these diverse demonstrations to learn an observation-to-action policy.
-
-
-Task Description
-
-      ↓
-      
-Expert Code Generation and Validation
-
-      ↓
-      
-Large-Scale Demonstration Collection
-      ↓
-      
-Domain Randomization
-
-      ↓
-      
-ACT Policy Training
-
-      ↓
-      
-Robust Robot Manipulation
